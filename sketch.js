@@ -110,6 +110,6 @@ function spawnDoors() {
 
 
     // add invisibleBlock sprite to invisibleBlockGroup
-    invisibleBlockGroup.add(invisibleBlock);
+    
   }
 }
